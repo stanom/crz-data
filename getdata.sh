@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# autor: SM, 30.12.2016
+# skript na stahovanie a spracovanie udajov z CRZ (http://www.crz.gov.sk/index.php?ID=2283790)
 
 den="2016-12-20"
 until [[ $den > "2016-12-30" ]]; do
